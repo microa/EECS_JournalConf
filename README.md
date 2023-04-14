@@ -3,10 +3,10 @@
 
 ### 检索
 
-* 谷歌学术 Google Scholar
+* Google Scholar 谷歌学术
 https://scholar.google.com/
 
-* SCI论文分区及点评
+* SCI 论文分区及点评
 https://www.letpub.com.cn/index.php?page=journalapp
 
 * Scimago Journal Rank （SJR）
@@ -21,7 +21,7 @@ https://www.resurchify.com/
 * 学术搜索
 https://sc.panda321.com/
 
-* Web of Science (WOS) 官方
+* Web of Science (WOS)
 https://www.webofscience.com/wos/woscc/basic-search
 
 * SCI-HUB
@@ -32,16 +32,16 @@ https://tool.yovisun.com/scihub/
 * Research Gate
 https://www.researchgate.net/
 
-* 科研者之家 HOME for Researchers
+* HOME for Researchers 科研者之家
 https://www.home-for-researchers.com/static/index.html#/
 
 
 ### 中国计算机学会 CCF
 
-* CCF推荐国际学术刊物目录（官方）
+* CCF 推荐国际学术刊物目录（官方）
 https://www.ccf.org.cn/Academic_Evaluation/By_category/
 
-* CCF推荐列表（整理）
+* CCF 推荐列表（整理）
 http://123.57.137.208/ccf/ccf-8.jsp
 
 
