@@ -25,7 +25,7 @@ https://zhuanlan.zhihu.com/p/457055314
 * 机器人领域期刊会议汇总
 https://zhuanlan.zhihu.com/p/110089682
 
-### 期刊常识
+### 期刊区别
 
 * IEEE Transactions, Journals, and Letters 区别
 http://www.360doc.com/content/18/0502/22/42392246_750623500.shtml
