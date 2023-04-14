@@ -16,6 +16,9 @@ https://www.scimagojr.com/journalrank.php
 * Conference Partner 会伴
 https://www.myhuiban.com/
 
+* Resurchify Explore Events 会议检索
+https://www.resurchify.com/
+
 * 学术搜索
 https://sc.panda321.com/
 
