@@ -10,7 +10,6 @@ https://scholar.google.com/
 https://www.letpub.com.cn/index.php?page=journalapp
 
 * Scimago Journal Rank （SJR）
-https://www.scimagojr.com/
 https://www.scimagojr.com/journalrank.php
  
 * Conference Partner 会伴
@@ -30,7 +29,7 @@ https://tool.yovisun.com/scihub/
 
 ### 论坛/工具
 
-* Researchgate
+* Research Gate
 https://www.researchgate.net/
 
 * 科研者之家 HOME for Researchers
@@ -48,16 +47,16 @@ http://123.57.137.208/ccf/ccf-8.jsp
 
 ### 机器人 Robotics
 
-* 机器人领域主要期刊及国际会议汇总(中科院分区2021年12月版)
+* 机器人领域期刊/会议中科院分区(2021.12)
 https://zhuanlan.zhihu.com/p/457055314
 
-* 机器人领域期刊会议汇总
+* 机器人领域期刊/会议汇总
 https://zhuanlan.zhihu.com/p/110089682
 
-* 机器人学领域期刊和会议 (2020-10-27)
+* 机器人领域期刊/会议 (2020.10)
 https://blog.csdn.net/qq_30383823/article/details/109303331
 
-* 机器人领域期刊总结 （2020-10-27）
+* 机器人领域期刊总结（2020.10）
 https://blog.csdn.net/qq_30383823/article/details/109305231
 
 
