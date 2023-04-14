@@ -26,7 +26,7 @@ https://sc.panda321.com/
 https://www.webofscience.com/wos/woscc/basic-search
 
 * SCI-HUB
-地址不固定，好多镜像站，请自行谷歌
+https://tool.yovisun.com/scihub/
 
 ### 论坛/工具
 
@@ -48,11 +48,17 @@ http://123.57.137.208/ccf/ccf-8.jsp
 
 ### 机器人 Robotics
 
-* 机器人领域主要期刊及国际会议汇总(中科院分区2021年12月最新版)
+* 机器人领域主要期刊及国际会议汇总(中科院分区2021年12月版)
 https://zhuanlan.zhihu.com/p/457055314
 
 * 机器人领域期刊会议汇总
 https://zhuanlan.zhihu.com/p/110089682
+
+* 机器人学领域期刊和会议 (2020-10-27)
+https://blog.csdn.net/qq_30383823/article/details/109303331
+
+* 机器人领域期刊总结 （2020-10-27）
+https://blog.csdn.net/qq_30383823/article/details/109305231
 
 
 ### 期刊区别
