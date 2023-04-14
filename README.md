@@ -37,7 +37,7 @@ https://www.researchgate.net/
 https://www.home-for-researchers.com/static/index.html#/
 
 
-### 中国计算机协会 CCF
+### 中国计算机学会 CCF
 
 * CCF推荐国际学术刊物目录（官方）
 https://www.ccf.org.cn/Academic_Evaluation/By_category/
