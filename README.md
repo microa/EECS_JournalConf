@@ -1,10 +1,34 @@
-# Top Journals and Conferences in EE/CS
+# Journals and Conferences in EE/CS
 
-## EE
+### 检索工具
 
+* SCI论文分区及点评
+https://www.letpub.com.cn/index.php?page=journalapp
 
-## CS
+* Scimago Journal Rank （SJR）
+https://www.scimagojr.com/
+https://www.scimagojr.com/journalrank.php
 
+### 中国计算机协会 CCF
 
-## Mixed
-### Robotics
+* CCF推荐国际学术刊物目录（官方）
+https://www.ccf.org.cn/Academic_Evaluation/By_category/
+
+* CCF推荐列表（整理）
+http://123.57.137.208/ccf/ccf-8.jsp
+
+### 机器人 Robotics
+
+* 机器人领域主要期刊及国际会议汇总(中科院分区2021年12月最新版)
+https://zhuanlan.zhihu.com/p/457055314
+
+* 机器人领域期刊会议汇总
+https://zhuanlan.zhihu.com/p/110089682
+
+### 期刊常识
+
+* IEEE Transactions, Journals, and Letters 区别
+http://www.360doc.com/content/18/0502/22/42392246_750623500.shtml
+
+* Transactions 到底是会刊还是汇刊？
+https://blog.sciencenet.cn/blog-1065241-982207.html
