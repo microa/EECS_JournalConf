@@ -19,12 +19,11 @@ https://www.myhuiban.com/
 * 学术搜索
 https://sc.panda321.com/
 
-* SCI-HUB
- 请支持正版，请自行谷歌，懂的都懂
-
 * Web of Science (WOS) 官方
 https://www.webofscience.com/wos/woscc/basic-search
 
+* SCI-HUB
+地址不固定，好多镜像站，请自行谷歌
 
 ### 论坛/工具
 
