@@ -1,6 +1,9 @@
 # Journals and Conferences in EE/CS
 
-### 检索工具
+### 检索
+
+* 谷歌学术 Google Scholar
+https://scholar.google.com/
 
 * SCI论文分区及点评
 https://www.letpub.com.cn/index.php?page=journalapp
@@ -8,6 +11,25 @@ https://www.letpub.com.cn/index.php?page=journalapp
 * Scimago Journal Rank （SJR）
 https://www.scimagojr.com/
 https://www.scimagojr.com/journalrank.php
+
+* Web of Science (WOS) 官方
+https://www.webofscience.com/wos/woscc/basic-search
+
+* SCI-HUB
+ 请支持正版，请自行谷歌，懂的都懂
+ 
+* Conference Partner 会伴
+https://www.myhuiban.com/
+
+### 论坛/工具
+
+* Researchgate
+https://www.researchgate.net/
+
+* 科研者之家 HOME for Researchers
+https://www.home-for-researchers.com/static/index.html#/
+
+
 
 ### 中国计算机协会 CCF
 
