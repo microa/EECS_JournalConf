@@ -47,16 +47,13 @@ http://123.57.137.208/ccf/ccf-8.jsp
 
 ### 机器人 Robotics
 
-* 机器人领域期刊/会议中科院分区(2021.12)
+* 机器人领域期刊/会议 中科院分区(2021.12)
 https://zhuanlan.zhihu.com/p/457055314
 
-* 机器人领域期刊/会议汇总
-https://zhuanlan.zhihu.com/p/110089682
-
-* 机器人领域期刊/会议 (2020.10)
+* 机器人领域期刊/会议 列表 (2020.10)
 https://blog.csdn.net/qq_30383823/article/details/109303331
 
-* 机器人领域期刊总结（2020.10）
+* 机器人领域期刊/会议 评价（2020.10）
 https://blog.csdn.net/qq_30383823/article/details/109305231
 
 
