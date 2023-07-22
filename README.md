@@ -56,6 +56,10 @@ https://blog.csdn.net/qq_30383823/article/details/109303331
 * 机器人领域期刊/会议 评价（2020.10）
 https://blog.csdn.net/qq_30383823/article/details/109305231
 
+### 集成电路 Integrated Circuits
+
+集成电路设计的学术会议排名（复旦版）
+https://www.zhihu.com/question/559252881/answer/2849452833
 
 ### 期刊区别
 
