@@ -6,6 +6,9 @@
 * Google Scholar 谷歌学术
 https://scholar.google.com/
 
+* Google 2023 Scholar Metrics
+https://scholar.google.com/citations?view_op=top_venues
+
 * SCI 论文分区及点评
 https://www.letpub.com.cn/index.php?page=journalapp
 
@@ -58,7 +61,7 @@ https://blog.csdn.net/qq_30383823/article/details/109305231
 
 ### 集成电路 Integrated Circuits
 
-集成电路设计的学术会议排名（复旦版）
+* 集成电路设计的学术会议排名（复旦版）
 https://www.zhihu.com/question/559252881/answer/2849452833
 
 ### 期刊区别
